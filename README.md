@@ -57,4 +57,6 @@ XiunoBBS 插件
 - **帖子底部来源信息**: https://gitee.com/soyoumi/git_frominfo
 - **超连接自动转换**: https://gitee.com/soyoumi/git_autosurl
 - **七牛云存储**: https://gitee.com/adamin/adam_qiniu
+- **Editor.md**: https://github.com/GamemakerChina/gmchina_xiuno_editormd
+
  
