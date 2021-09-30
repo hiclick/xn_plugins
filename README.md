@@ -1,6 +1,6 @@
 XiunoBBS 插件
 ---
-本仓库内的插件为原 **[XiunoBBS](/xiulab/xiunobbs/tree/master/plugin)** 默认自带的插件。   
+本仓库内的插件为原 **[XiunoBBS](../../../xiunobbs/tree/master/plugin)** 默认自带的插件。   
 ***支持原创插件开发者，坚决抵制盗版收费插件***
 <pre>
 ├── huux_notice
