@@ -1,6 +1,6 @@
 XiunoBBS 插件
 ---
-本仓库内的插件为原 **[XiunoBBS](https://gitee.com/xiulab/xiunobbs/tree/xiuno/plugin)** 默认自带的插件。   
+本仓库内的插件为原 **[XiunoBBS](/xiulab/xiunobbs/tree/master/plugin)** 默认自带的插件。   
 ***支持原创插件开发者，坚决抵制盗版收费插件***
 <pre>
 ├── huux_notice
@@ -17,7 +17,6 @@ XiunoBBS 插件
 ├── xn_json
 ├── xn_logic_delete
 ├── xn_lucky_post
-├── xn_manual
 ├── xn_mobile
 ├── xn_mod_enhance
 ├── xn_mypost
